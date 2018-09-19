@@ -1,0 +1,3 @@
+https://doc.scrapy.org/en/latest/intro/tutorial.html
+
+learning python: https://docs.python.org/3/tutorial/
