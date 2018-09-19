@@ -10,7 +10,8 @@ class QuotesSpider(scrapy.Spider):
             'http://quotes.toscrape.com/page/1/',
             'http://quotes.toscrape.com/page/2/',
         ]
-        # 以下为生成器，用来生成一个迭代器，这样比较简单
+        # 以下为生成器，用来生成一个迭代器，这样比较简单。
+        # 用Iterator类的方式也可以，但是会麻烦
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
