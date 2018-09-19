@@ -1,0 +1,16 @@
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Connection: keep-alive
+Content-Length: 113
+Content-Type: application/json
+Cookie: _ga=GA1.2.1669005192.1534162177; GCID=2c7d69e-0dd9e8d-9a0eeb0-cf5462d; _gid=GA1.2.150392985.1537375026; _gat=1; SERVERID=fe79ab1762e8fabea8cbf989406ba8f4|1537379444|1537375026
+Host: account.geekbang.org
+Origin: https://account.geekbang.org
+Referer: https://account.geekbang.org/signin?redirect=https%3A%2F%2Ftime.geekbang.org%2F
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+
+{"country":86,"cellphone":"xxx","password":"xxx","captcha":"","remember":1,"platform":3,"platform":1}
+
+python爬虫如何POST request payload形式的请求
+https://blog.csdn.net/zwq912318834/article/details/79930423
