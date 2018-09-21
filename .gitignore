@@ -1,1 +1,4 @@
+/*.html
 /.idea
+/scrapydemo/__pycache__
+/scrapydemo/spiders/__pycache__
